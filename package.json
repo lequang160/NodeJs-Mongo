@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Hello new API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lequang160/NodeJs-Mongo.git"
+  },
+  "keywords": [
+    "Quang",
+    "Le",
+    "Minh",
+    "Lequang160@gmail.com"
+  ],
+  "author": "Quang Le Minh Lequang160@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lequang160/NodeJs-Mongo/issues"
+  },
+  "homepage": "https://github.com/lequang160/NodeJs-Mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  }
+}
